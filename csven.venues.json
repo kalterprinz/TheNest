@@ -1,0 +1,258 @@
+[{
+  "_id": {
+    "$oid": "65f32aeed151e169d3f5bb16"
+  },
+  "event": "Conference",
+  "name": "CCS EC",
+  "where": "4th floor",
+  "start_time": {
+    "$date": "2024-04-20T08:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-04-20T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f32e287835552c370086ca"
+  },
+  "event": "Seminar",
+  "name": "JITS",
+  "where": "Lobby",
+  "start_time": {
+    "$date": "2024-05-10T10:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-05-10T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f32e9d7835552c370086cb"
+  },
+  "event": "Workshop",
+  "name": "CA",
+  "where": "3A",
+  "start_time": {
+    "$date": "2024-06-04T21:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-06-05T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f32eb17835552c370086cc"
+  },
+  "event": "Symposium",
+  "name": "CS",
+  "where": "3B",
+  "start_time": {
+    "$date": "2024-07-14T20:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-15T06:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f32f5e7835552c370086cd"
+  },
+  "event": "Panel Discussion",
+  "name": "CCS EC",
+  "where": "3C",
+  "start_time": {
+    "$date": "2024-08-22T11:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-08-22T15:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f3305d7835552c370086cf"
+  },
+  "event": "Training Session",
+  "name": "JITS",
+  "where": "Faculty Room",
+  "start_time": {
+    "$date": "2024-09-10T10:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-09-10T16:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f3306a7835552c370086d0"
+  },
+  "event": "Conference",
+  "name": "CA",
+  "where": "3D",
+  "start_time": {
+    "$date": "2024-10-04T21:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-10-05T05:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f330767835552c370086d1"
+  },
+  "event": "Workshop",
+  "name": "CS",
+  "where": "3E",
+  "start_time": {
+    "$date": "2024-11-12T08:45:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-11-12T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f330867835552c370086d2"
+  },
+  "event": "Seminar",
+  "name": "CCS EC",
+  "where": "3F",
+  "start_time": {
+    "$date": "2024-11-30T22:15:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-12-01T04:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f330907835552c370086d3"
+  },
+  "event": "Symposium",
+  "name": "JITS",
+  "where": "Multimedia Lab",
+  "start_time": {
+    "$date": "2025-01-20T08:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2025-01-20T18:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f330a27835552c370086d4"
+  },
+  "event": "Panel Discussion",
+  "name": "CA",
+  "where": "3G",
+  "start_time": {
+    "$date": "2025-02-13T23:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2025-02-14T04:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f330ae7835552c370086d5"
+  },
+  "event": "Training Session",
+  "name": "CS",
+  "where": "Faculty Room",
+  "start_time": {
+    "$date": "2025-03-05T09:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2025-03-05T15:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f3fa4b6a86aca043c85163"
+  },
+  "event": "Conference",
+  "name": "JITS",
+  "where": "3E",
+  "start_time": {
+    "$date": "2024-04-01T01:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-04-01T09:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f460705e003ffa06af0b3d"
+  },
+  "event": "CCS Executive Committee Meeting",
+  "name": "CCS EC",
+  "where": "Faculty Room",
+  "start_time": {
+    "$date": "2024-05-02T06:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-05-02T08:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f460775e003ffa06af0b40"
+  },
+  "event": "Job Interview and Training Session",
+  "name": "JITS",
+  "where": "Multimedia Lab",
+  "start_time": {
+    "$date": "2024-06-15T01:30:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-06-15T04:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f4607d5e003ffa06af0b43"
+  },
+  "event": "Computer Science Seminar Series",
+  "name": "CS",
+  "where": "3F",
+  "start_time": {
+    "$date": "2024-07-10T03:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-07-10T05:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f460835e003ffa06af0b46"
+  },
+  "event": "Career Advancement Workshop",
+  "name": "CA",
+  "where": "3H",
+  "start_time": {
+    "$date": "2024-08-05T05:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-08-05T07:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f460885e003ffa06af0b49"
+  },
+  "event": "CCS Executive Committee Meeting",
+  "name": "CCS EC",
+  "where": "Faculty Room",
+  "start_time": {
+    "$date": "2024-09-20T06:00:00.000Z"
+  },
+  "end_time": {
+    "$date": "2024-09-20T08:00:00.000Z"
+  },
+  "__v": 0
+}]

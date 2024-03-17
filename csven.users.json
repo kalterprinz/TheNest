@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65f2f0d41d98f0fe6ca55fb6"
+  },
+  "name": "admin1",
+  "college": "test",
+  "password": "pass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f2fea147b6567963be1501"
+  },
+  "name": "admin2",
+  "college": "test",
+  "password": "pass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f330f78fe9b05bb95f9b2e"
+  },
+  "name": "CCS EC",
+  "college": "CCS",
+  "password": "pass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f34f6550d2dbd7d88547a2"
+  },
+  "name": "JITS",
+  "college": "CSS",
+  "password": "pass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f34f7650d2dbd7d88547a4"
+  },
+  "name": "CA",
+  "college": "CCS",
+  "password": "pass",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f34f8550d2dbd7d88547a6"
+  },
+  "name": "CS",
+  "college": "CCS",
+  "password": "pass",
+  "__v": 0
+}]
